@@ -1,0 +1,13 @@
+.scroll-x {
+  overflow-x: scroll;
+  flex-wrap: nowrap;
+}
+
+.card {
+  min-width: 15%;
+  cursor: pointer;
+}
+
+.card:hover {
+  box-shadow: 0 0 5px 3px #a0a0a033;
+}
